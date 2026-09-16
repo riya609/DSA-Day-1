@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/riya609/DSA-Day-1/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/riya609/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
