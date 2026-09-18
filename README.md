@@ -13,11 +13,13 @@
 | [0024-swap-nodes-in-pairs](https://github.com/riya609/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/riya609/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/riya609/DSA-Day-1/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/riya609/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riya609/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -53,6 +56,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/riya609/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/riya609/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
